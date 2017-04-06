@@ -1,0 +1,26 @@
+@charset "utf-8";
+/* CSS Document */
+body
+{
+	margin: 0;
+	padding: 0;
+	width: 100%; height: 100%;
+}
+
+.header
+{
+	height: 100px; width: 100%;
+	background-color: #414141;
+}
+.banner
+{
+	width: 800px;
+	margin: 0 auto;
+}
+
+.logo
+{
+	height: ; width: 400px ;
+}
+
+
